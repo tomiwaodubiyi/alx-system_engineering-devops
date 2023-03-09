@@ -1,0 +1,1 @@
+This is a current workin gdirectory tak from ALX. I'm required to create several scripts in this repository to execute navigation tasks. Upon each script that I create, I'll provide a brief description of the function of the script.
